@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Formatters and linters
+.ruff_cache
